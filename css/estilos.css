@@ -7,7 +7,9 @@ body {
 h1 {
     background-color: darkblue;
     color: aliceblue;
+    box-sizing: border-box;
     font-size: 20px;
+    size: 40px;
 }
 
 span {
@@ -21,6 +23,8 @@ div {
     box-shadow: 5px 10px 17px 4px rgba(71,68,71,1);
 
     background-color: aliceblue;
+    box-sizing: border-box;
+    size: 600px;
 }
 
 p {
