@@ -1,6 +1,26 @@
 body {
     text-align: center;
     color: aqua;
+    font-size: 15px;
+}
+
+h1 {
+    background-color: darkblue;
+    color: aliceblue;
+    font-size: 20px;
+}
+
+span {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+div {
+    -webkit-box-shadow: 5px 10px 17px 4px rgba(71,68,71,1);
+    -moz-box-shadow: 5px 10px 17px 4px rgba(71,68,71,1);
+    box-shadow: 5px 10px 17px 4px rgba(71,68,71,1);
+
+    background-color: aliceblue;
 }
 
 p {
